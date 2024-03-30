@@ -1,5 +1,5 @@
 # odin-recipes
-With this project I will be practicing my HTML skills
-I will input links, images, and headers
-Also paragraphs, italics, bold 
-Everything I have learned up to this point
+<p>With this project I will be practicing my HTML skills</p>
+<p>I will input links, images, and headers</p>
+<p>Also paragraphs, italics, bold</p>
+<p>Everything I have learned up to this point</p>
