@@ -1,0 +1,36 @@
+/*style.css*/
+
+body {
+    background-color: silver;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: fantasy;
+    background-color: aquamarine;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 20px;
+}
+
+ul {font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    list-style-type: none;
+
+}
+
+li {margin-bottom: 20px;
+    text-align: center;
+
+}
+
+a {text-decoration: none;
+}
+
+p {
+    font-size: 25px;
+    margin-top: 5px;
+
+}
