@@ -1,0 +1,19 @@
+/*style.css*/
+
+body {background: pink;}
+
+h1 {font-size: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.picture {text-align: center;
+            border: solid;
+}
+
+p {font-size: 20px;
+}
+
+.lists.box {font-size: 17px;
+        background-color: rgb(105, 69, 69);
+}
